@@ -1,39 +1,97 @@
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,dart,css,html,js,java,py,ts&theme=dark" alt="Programming languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,nextjs,react&theme=dark" alt="Frameworks" />
-</p>
+# Hi, I'm Nimroth 👋
 
-<p align="center">
-  <img src="https://svgl.app/library/lightroom.svg" width="48" height="48" alt="Adobe Lightroom" />
-  <img src="https://skillicons.dev/icons?i=ps,pr,figma&theme=dark" alt="Design tools" />
-</p>
+### Full-Stack & Mobile Application Developer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,selenium&theme=dark" alt="Development tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" />
-</p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nimrothnimo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nimrothnimo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nimrothnimo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building practical web and mobile experiences with thoughtful design.
 
-# 💫 About Me:
-### 👋 Hi, I'm Nimroth!<br><br>🚀 **Aspiring Full-Stack & Mobile Application Developer**<br><br>I'm a passionate software developer with an HNDIT qualification and hands-on experience in building web and mobile applications. I enjoy turning ideas into practical, user-friendly digital solutions and continuously exploring new technologies.<br><br>💻 **Technical Skills**<br><br>- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS<br>- **Backend:**  PHP, Laravel,&#x20;<br>- **Mobile Development:** Flutter<br>- **Programming Languages:** Java, Python, JavaScript, PHP<br>- **Databases:** MySQL,<br>- **Tools:** Git, GitHub, VS Code, Android Studio, IntelliJ IDEA<br><br>🌱 **Currently Focused On**<br><br>- Improving Full-Stack Development skills<br>- Building real-world software applications<br>- Exploring modern web and mobile technologies<br>- Learning and implementing AI-powered features<br><br>🎯 **My Goal**<br><br>To become a skilled software engineer by continuously learning, building innovative projects, and solving real-world problems through technology.<br><br>📫 **Let's Connect and Build Something Amazing!**<br>
+<a href="https://github.com/nimrothnimo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/iam__nimo">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:nimrothnimo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nimroth" />
+</a>
 
+<br><br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam__nimo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nimrothnimo@gmail.com) 
+<img src="https://komarev.com/ghpvc/?username=nimrothnimo&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nimrothnimo&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nimrothnimo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me
+
+I'm a developer with an **HNDIT qualification** and hands-on experience building web and mobile applications. I enjoy turning ideas into useful digital products and learning through real projects.
+
+- 🚀 Developing applications with **React, Next.js, Laravel, and Flutter**
+- 🌱 Strengthening my **full-stack development** skills
+- 🤖 Exploring **AI-powered features** for everyday applications
+- 🎯 Working toward becoming a skilled software engineer
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,dart,html,css,js,ts,java,py,php&theme=dark&perline=9" alt="C, Dart, HTML, CSS, JavaScript, TypeScript, Java, Python, PHP" />
+
+### Frameworks & Database
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,flutter,mysql&theme=dark&perline=6" alt="React, Next.js, Tailwind CSS, Laravel, Flutter, MySQL" />
+
+### Development & Testing
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,selenium&theme=dark&perline=6" alt="Git, GitHub, VS Code, Android Studio, IntelliJ IDEA, Selenium" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" title="Playwright" />
+
+### Design & Creative
+
+<img src="https://skillicons.dev/icons?i=figma,ps,pr&theme=dark" alt="Figma, Adobe Photoshop, Adobe Premiere Pro" />
+&nbsp;
+<img src="https://svgl.app/library/lightroom.svg" width="48" height="48" alt="Adobe Lightroom" title="Adobe Lightroom" />
+
+</div>
+
+## 🌱 Current Focus
+
+| Area | What I'm working toward |
+| :--- | :--- |
+| **Web development** | Responsive interfaces and maintainable full-stack applications |
+| **Mobile development** | Practical, user-friendly applications with Flutter |
+| **Software quality** | Better testing, cleaner code, and reliable user experiences |
+| **AI integration** | Useful features that simplify everyday tasks |
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=nimrothnimo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="420" alt="Nimroth's GitHub statistics" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=nimrothnimo&theme=tokyonight&hide_border=true&border_radius=12" width="420" alt="Nimroth's GitHub contribution streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nimrothnimo&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="420" alt="Most used languages in public repositories" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+Open to connecting with developers, sharing ideas, and collaborating on projects.
+
+**[GitHub](https://github.com/nimrothnimo) · [Instagram](https://instagram.com/iam__nimo) · [Email](mailto:nimrothnimo@gmail.com)**
+
+</div>
