@@ -6,6 +6,24 @@
 
 Building practical web and mobile experiences with thoughtful design.
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,dart,html,css,js,ts,java,py,php&theme=dark&perline=9" alt="C, Dart, HTML, CSS, JavaScript, TypeScript, Java, Python, PHP" />
+
+### Frameworks & Database
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,flutter,mysql&theme=dark&perline=6" alt="React, Next.js, Tailwind CSS, Laravel, Flutter, MySQL" />
+
+### Development & Testing
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,selenium&theme=dark&perline=6" alt="Git, GitHub, VS Code, Android Studio, IntelliJ IDEA, Selenium" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" title="Playwright" />
+
 <a href="https://github.com/nimrothnimo">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -33,23 +51,7 @@ I'm a developer with an **HNDIT qualification** and hands-on experience building
 - 🤖 Exploring **AI-powered features** for everyday applications
 - 🎯 Working toward becoming a skilled software engineer
 
-## 🛠️ Tech Stack
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,dart,html,css,js,ts,java,py,php&theme=dark&perline=9" alt="C, Dart, HTML, CSS, JavaScript, TypeScript, Java, Python, PHP" />
-
-### Frameworks & Database
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,flutter,mysql&theme=dark&perline=6" alt="React, Next.js, Tailwind CSS, Laravel, Flutter, MySQL" />
-
-### Development & Testing
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,selenium&theme=dark&perline=6" alt="Git, GitHub, VS Code, Android Studio, IntelliJ IDEA, Selenium" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" title="Playwright" />
 
 ### Design & Creative
 
