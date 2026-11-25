@@ -24,19 +24,7 @@ Building practical web and mobile experiences with thoughtful design.
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" title="Playwright" />
 
-<a href="https://github.com/nimrothnimo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://instagram.com/iam__nimo">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="mailto:nimrothnimo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nimroth" />
-</a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=nimrothnimo&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 
 </div>
 
@@ -93,7 +81,18 @@ I'm a developer with an **HNDIT qualification** and hands-on experience building
 ### Let's build something useful.
 
 Open to connecting with developers, sharing ideas, and collaborating on projects.
+<a href="https://github.com/nimrothnimo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/iam__nimo">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:nimrothnimo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nimroth" />
+</a>
 
-**[GitHub](https://github.com/nimrothnimo) · [Instagram](https://instagram.com/iam__nimo) · [Email](mailto:nimrothnimo@gmail.com)**
+<br><br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=nimrothnimo&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
+
+
